@@ -1,5 +1,5 @@
-#to run it
+#to run it  
 python conversation_nubs.py
 
-#pretrained model
+#pretrained model  
 https://huggingface.co/facebook/blenderbot-400M-distill
